@@ -1,0 +1,7 @@
+{
+    "watch": ["src", "public"],  
+    "ext": "js,jsx,html,css",    
+    "ignore": ["node_modules"],  
+    "exec": "npm run start"     
+  }
+  
